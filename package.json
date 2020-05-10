@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mrinkartiso/mrinkartiso.github.io/issues"
   },
-  "homepage": "https://github.com/mrinkartiso/mrinkartiso.github.io#readme"
+  "homepage": "https://github.com/mrinkartiso/mrinkartiso.github.io#readme",
+  "dependencies": {
+    "p5": "^1.0.0"
+  }
 }
