@@ -1,6 +1,6 @@
 const maxI = 300;
 let n = 2;
-let radius = 400;
+let radius = 500;
 let a = 0;
 let aIncrement = 8;
 let rotation = 0;
